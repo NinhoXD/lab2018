@@ -1,0 +1,3 @@
+
+2.1.1 Propósito
+A razão para a utilização do sistema E-stock está voltada para a administração do estoque, organização da lista de compras para abastecer o estoque, acompanhar a validade de produtos perecíveis, e geração de relatórios.

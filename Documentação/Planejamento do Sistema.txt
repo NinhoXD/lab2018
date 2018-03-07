@@ -1,0 +1,43 @@
+1. Planejamento do Sistema
+
+1.1. Descrição do Projeto
+
+O sistema E-stock visa oferecer para as empresas uma ferramenta que permita o controle de seu estoque de forma facilitada e produtiva. Buscando alcançar o máximo de aproveitamento e economia. O E-stock proporciona funcionalidades pertinentes ao gerenciamento de produtos, e uma análise concisa proveniente de seu fluxo de informações.
+ 
+O sistema E-stock traz diversos benefícios em seu uso, a começar pelo controle em si, gerando mais organização dos produtos contando com relatórios diários, semanais e mensais. Com dados relevantes aos gestores da empresa e outros, refletindo diretamente na qualidade do processo e contribuindo para o aumento da receita da empresa.
+
+
+1.2. Cronograma
+
+Adaptar o arquivo
+
+
+1.3 Recursos
+
+
+1.3.1. Recursos Humanos
+
+	Joel Braga Barreto	 - R.A. 1680481611043
+	Keveny
+	Roberto
+	Matheus
+	Willian Silva de Messias - R.A. 1680481521034
+
+
+
+
+1.3.2. Recursos Físicos
+	Software:
+		.Java
+		.SQL Server
+		.Astah
+		.Project Libre
+		.Photoshop
+		.Axure
+		.Git/Git Hub
+		.Excel 2016
+		.Word 2016
+		.Gimp
+		
+		
+	
