@@ -1,0 +1,67 @@
+Clientes
+
+Comércio ou empresas em geral que necessitam de um controle de estoque para melhor gerencia-los.
+
+Usuários
+
+Gerentes	Controle de Etoque, Pesquisas, geração de relatórios, consulta de relatórios, Gera Lista de Compras
+
+Colaboradores	Controle do Estoque, Gera Lista de Compras
+
+
+**Colocar Validade no combo box, caso marque SIM, ele libera os campos...**
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+Relatório
+
+A cada X dias
+Ou usuário geram manualmente...
+
+-------------------------------------------------------------------CONVENÇÕES DE NOMES E DEFINIÇÕES
+
+DATABASE	BD	Banco de Dados
+-------------------------------------------------------------------
+Restrições do Produto
+
+Plataforma Windows e Linux
+Linguagem de Programação JAVA JSE
+Banco de Dados SQL Server
+
+-------------------------------------------------------------------
+Escopo
+	TAREFA JOEL
+
+-------------------------------------------------------------------
+Requisitos Funcionais
+
+RF001
+O sistema deverá ser capaz de registrar os produtos
+
+RF002
+O sistema deverá gerar relarórios periódicos ou quando necessário pelos usuários
+
+RF003
+O sistema deverá ser capaz de controlar o estoque em relação a entrada e saída de produtos
+
+RF004
+O sistema deverá ser capaz de excluir produtos registrados anteriormente
+
+RF005
+O sistema deverá permitir ao usuário alterar produtos quando necessário
+
+RF006
+O sistema deverá conter histórico do estoque
+
+RF007 
+O sistema deverá gerar um histórico de registro de atividades dos usuários
+
+RF008 
+RENIAR QUESTÃO 
+
+-------------------------------------------------------------------
+Cadastro de Usuário...
+
+Como o software é genérico no cadastro são especificados seu acesso dependendo de qual nível escolher, exemplo Gerente/Colaboradores
+
+--------------------------------------------------------------------

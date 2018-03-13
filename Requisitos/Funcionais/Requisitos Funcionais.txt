@@ -30,12 +30,5 @@ O sistema deverá gerar uma lista de compras para produtos em falta no estoque
 RF010 - 
 
 ---------------------------------------------------------------------------------------------------
-NF001
-O usuário fica encarregado por determinar a quantidade minima de cada produto do estoque
 
-NF002
-O sistema deve fornecer a opção de alteração da entrada e saída de produtos do estoque por meio do nível de acesso
-
-NF003 **REFINAR**
-O sisTema deverá permitir o registro da quantidade máxima e mínima dos produtos
 
