@@ -1,0 +1,4 @@
+RNF004	-	O banco de dados deve ser armazenado em disco rígido de no mínimo 1TB
+
+
+RNF005	-	O banco de dados deverá conter um backup diário armazenado em nuvem

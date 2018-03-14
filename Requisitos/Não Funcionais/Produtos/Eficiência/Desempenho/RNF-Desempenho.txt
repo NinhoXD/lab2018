@@ -1,0 +1,7 @@
+RNF006	-	O sistema deve carregar e exibir os avisos de válidade logo após a tela de inicio
+
+
+RNF007	-	O tempo de resposta das consultas não deve ultrapassar 10 segundos
+
+
+RNF008	-	O tempo para adicionar um novo registro não deve ultrapassar 10 segundos

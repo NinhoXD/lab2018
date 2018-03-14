@@ -1,0 +1,1 @@
+RFN017	-	O sistema não deve permitir a inserção de produtos vencidos

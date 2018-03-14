@@ -1,0 +1,1 @@
+RNF016	-	As listas podem ser consultadas por qualquer usuário cadastrado que tenha tal permissão

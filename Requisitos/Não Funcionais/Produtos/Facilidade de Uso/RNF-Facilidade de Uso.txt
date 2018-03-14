@@ -1,0 +1,7 @@
+RNF001	-	O background do software deverá ser cinza claro
+
+
+RNF002 	-	Para a Tipografia utilizar fonte Arial, entre 14px e 22px e Cor preta
+
+
+RNF003	-	Todas as Funcionalidades do sistema estarão dispostas na tela de Inicio

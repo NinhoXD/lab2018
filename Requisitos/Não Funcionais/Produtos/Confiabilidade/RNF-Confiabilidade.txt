@@ -1,0 +1,4 @@
+RNF009	-	Os produtos listados com validade próxima do vencimento realmente deverão coincindir com a data de vencimento do produto
+
+
+RNF010	-	Os produtos listados na consulta deverão estar presentes no estoque
